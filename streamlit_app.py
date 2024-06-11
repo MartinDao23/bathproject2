@@ -5,9 +5,9 @@ import altair as alt
 from datetime import datetime, timedelta
 
 # Page title
-st.set_page_config(page_title='Support Ticket Workflow', page_icon='🎫')
-st.title('🎫 Support Ticket Workflow')
-st.info('To write a ticket, fill out the form below. Check status or review ticketing analytics using the tabs below.')
+st.set_page_config(page_title='Time Manager', page_icon='🕒')
+st.title('🕒 Time Manager')
+st.info('This is your blank time management home page. Edit to add features for all your time management needs!')
 
 
 # Generate data
